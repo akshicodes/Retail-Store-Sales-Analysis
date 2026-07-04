@@ -1,0 +1,551 @@
+﻿Transaction_ID,Date,Day,Time,Category,Product,Quantity,Unit_Price,Bill_Amount,Payment_Mode
+T0001,01-09-2025,Monday,12:06,Dairy,Curd,2,40,80,Cash
+T0002,01-09-2025,Monday,12:28,Dairy,Butter,1,58,58,UPI
+T0003,01-09-2025,Monday,10:38,Personal Care,Toothpaste,2,95,190,UPI
+T0004,01-09-2025,Monday,18:07,Beverages,Coffee,2,240,480,Cash
+T0005,01-09-2025,Monday,15:42,Bakery,Bread,1,45,45,UPI
+T0006,01-09-2025,Monday,18:56,Beverages,Tea,2,180,360,UPI
+T0007,01-09-2025,Monday,10:01,Beverages,Juice,1,90,90,UPI
+T0008,01-09-2025,Monday,12:20,Beverages,Tea,3,180,540,UPI
+T0009,01-09-2025,Monday,12:53,Grocery,Rice 5kg,3,320,960,UPI
+T0010,01-09-2025,Monday,19:05,Household,Dishwash Bar,3,30,90,UPI
+T0011,01-09-2025,Monday,15:09,Snacks,Namkeen,3,50,150,Cash
+T0012,01-09-2025,Monday,12:02,Dairy,Milk,1,60,60,Cash
+T0013,01-09-2025,Monday,18:30,Grocery,Salt 1kg,1,25,25,Cash
+T0014,01-09-2025,Monday,16:49,Beverages,Cold Drink,2,45,90,UPI
+T0015,01-09-2025,Monday,15:35,Grocery,Wheat Flour 5kg,1,260,260,Cash
+T0016,01-09-2025,Monday,16:22,Dairy,Butter,1,58,58,Cash
+T0017,01-09-2025,Monday,11:42,Household,Toilet Cleaner,1,130,130,UPI
+T0018,01-09-2025,Monday,15:24,Dairy,Milk,2,60,120,Cash
+T0019,01-09-2025,Monday,09:00,Household,Detergent,1,120,120,UPI
+T0020,01-09-2025,Monday,13:33,Snacks,Cookies,1,60,60,UPI
+T0021,01-09-2025,Monday,15:27,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0022,01-09-2025,Monday,15:43,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0023,01-09-2025,Monday,16:21,Snacks,Namkeen,2,50,100,Card
+T0024,01-09-2025,Monday,17:06,Personal Care,Face Wash,2,160,320,UPI
+T0025,01-09-2025,Monday,11:00,Beverages,Coffee,1,240,240,UPI
+T0026,01-09-2025,Monday,16:25,Snacks,Namkeen,3,50,150,UPI
+T0027,01-09-2025,Monday,13:54,Snacks,Chocolate,1,40,40,Cash
+T0028,01-09-2025,Monday,19:02,Bakery,Rusk,1,55,55,Cash
+T0029,01-09-2025,Monday,11:43,Household,Toilet Cleaner,1,130,130,UPI
+T0030,01-09-2025,Monday,19:42,Grocery,Wheat Flour 5kg,1,260,260,Card
+T0031,01-09-2025,Monday,12:09,Beverages,Coffee,2,240,480,Cash
+T0032,01-09-2025,Monday,18:33,Grocery,Wheat Flour 5kg,2,260,520,UPI
+T0033,01-09-2025,Monday,12:23,Personal Care,Face Wash,2,160,320,Cash
+T0034,01-09-2025,Monday,13:28,Beverages,Water Bottle,1,20,20,Cash
+T0035,01-09-2025,Monday,11:15,Dairy,Cheese,1,140,140,Card
+T0036,02-09-2025,Tuesday,15:16,Grocery,Sugar 1kg,3,48,144,UPI
+T0037,02-09-2025,Tuesday,09:11,Dairy,Milk,2,60,120,Cash
+T0038,02-09-2025,Tuesday,16:13,Personal Care,Face Wash,4,160,640,Cash
+T0039,02-09-2025,Tuesday,19:47,Dairy,Curd,1,40,40,Card
+T0040,02-09-2025,Tuesday,14:10,Household,Toilet Cleaner,1,130,130,UPI
+T0041,02-09-2025,Tuesday,16:35,Snacks,Chips,1,20,20,Card
+T0042,02-09-2025,Tuesday,17:40,Grocery,Rice 5kg,1,320,320,Cash
+T0043,02-09-2025,Tuesday,15:55,Grocery,Salt 1kg,1,25,25,Cash
+T0044,02-09-2025,Tuesday,16:10,Personal Care,Face Wash,3,160,480,Cash
+T0045,02-09-2025,Tuesday,14:00,Personal Care,Soap,2,40,80,Card
+T0046,02-09-2025,Tuesday,14:22,Snacks,Cookies,2,60,120,UPI
+T0047,02-09-2025,Tuesday,14:28,Grocery,Wheat Flour 5kg,3,260,780,Cash
+T0048,02-09-2025,Tuesday,15:52,Beverages,Coffee,1,240,240,Cash
+T0049,02-09-2025,Tuesday,14:07,Personal Care,Soap,4,40,160,Cash
+T0050,02-09-2025,Tuesday,15:21,Snacks,Chocolate,5,40,200,UPI
+T0051,02-09-2025,Tuesday,18:37,Dairy,Butter,1,58,58,Card
+T0052,02-09-2025,Tuesday,14:16,Snacks,Cookies,2,60,120,UPI
+T0053,02-09-2025,Tuesday,15:25,Beverages,Cold Drink,1,45,45,Cash
+T0054,02-09-2025,Tuesday,15:18,Grocery,Wheat Flour 5kg,1,260,260,Cash
+T0055,02-09-2025,Tuesday,14:49,Snacks,Chips,1,20,20,UPI
+T0056,02-09-2025,Tuesday,16:34,Beverages,Tea,4,180,720,UPI
+T0057,02-09-2025,Tuesday,16:45,Personal Care,Shampoo,1,180,180,Cash
+T0058,02-09-2025,Tuesday,16:49,Snacks,Namkeen,1,50,50,UPI
+T0059,02-09-2025,Tuesday,15:21,Beverages,Coffee,1,240,240,UPI
+T0060,02-09-2025,Tuesday,16:03,Household,Dishwash Bar,2,30,60,Cash
+T0061,02-09-2025,Tuesday,14:03,Household,Toilet Cleaner,4,130,520,UPI
+T0062,02-09-2025,Tuesday,19:59,Personal Care,Face Wash,2,160,320,Cash
+T0063,02-09-2025,Tuesday,13:23,Grocery,Sugar 1kg,3,48,144,UPI
+T0064,02-09-2025,Tuesday,10:40,Grocery,Sugar 1kg,1,48,48,UPI
+T0065,02-09-2025,Tuesday,14:57,Personal Care,Shampoo,2,180,360,Cash
+T0066,02-09-2025,Tuesday,14:54,Grocery,Salt 1kg,1,25,25,UPI
+T0067,02-09-2025,Tuesday,16:37,Dairy,Curd,2,40,80,UPI
+T0068,02-09-2025,Tuesday,14:59,Household,Floor Cleaner,1,150,150,Cash
+T0069,02-09-2025,Tuesday,15:09,Snacks,Chips,1,20,20,Cash
+T0070,02-09-2025,Tuesday,15:30,Beverages,Juice,2,90,180,UPI
+T0071,02-09-2025,Tuesday,14:26,Snacks,Cookies,1,60,60,UPI
+T0072,02-09-2025,Tuesday,16:14,Snacks,Chocolate,1,40,40,UPI
+T0073,02-09-2025,Tuesday,12:49,Grocery,Salt 1kg,1,25,25,UPI
+T0074,02-09-2025,Tuesday,14:41,Beverages,Coffee,1,240,240,Cash
+T0075,02-09-2025,Tuesday,16:21,Dairy,Curd,1,40,40,UPI
+T0076,02-09-2025,Tuesday,16:39,Bakery,Bread,1,45,45,UPI
+T0077,02-09-2025,Tuesday,10:02,Grocery,Wheat Flour 5kg,3,260,780,Cash
+T0078,02-09-2025,Tuesday,09:13,Household,Toilet Cleaner,2,130,260,Cash
+T0079,02-09-2025,Tuesday,14:59,Beverages,Coffee,1,240,240,Cash
+T0080,02-09-2025,Tuesday,16:30,Grocery,Rice 5kg,1,320,320,Cash
+T0081,02-09-2025,Tuesday,13:07,Dairy,Milk,1,60,60,UPI
+T0082,02-09-2025,Tuesday,14:38,Beverages,Juice,1,90,90,Cash
+T0083,02-09-2025,Tuesday,14:55,Personal Care,Shampoo,1,180,180,UPI
+T0084,02-09-2025,Tuesday,14:26,Household,Detergent,4,120,480,Cash
+T0085,02-09-2025,Tuesday,12:54,Grocery,Rice 5kg,2,320,640,UPI
+T0086,02-09-2025,Tuesday,16:07,Beverages,Tea,1,180,180,Cash
+T0087,02-09-2025,Tuesday,11:08,Household,Dishwash Bar,2,30,60,Cash
+T0088,02-09-2025,Tuesday,12:41,Personal Care,Face Wash,2,160,320,UPI
+T0089,02-09-2025,Tuesday,09:57,Personal Care,Face Wash,2,160,320,Cash
+T0090,02-09-2025,Tuesday,16:04,Dairy,Cheese,3,140,420,Card
+T0091,02-09-2025,Tuesday,16:39,Personal Care,Toothpaste,1,95,95,Cash
+T0092,02-09-2025,Tuesday,11:52,Personal Care,Face Wash,2,160,320,Cash
+T0093,02-09-2025,Tuesday,15:43,Dairy,Curd,1,40,40,UPI
+T0094,02-09-2025,Tuesday,14:07,Household,Dishwash Bar,1,30,30,Cash
+T0095,02-09-2025,Tuesday,17:33,Personal Care,Toothpaste,4,95,380,Cash
+T0096,02-09-2025,Tuesday,15:48,Beverages,Juice,4,90,360,Cash
+T0097,02-09-2025,Tuesday,12:05,Household,Dishwash Bar,2,30,60,Card
+T0098,02-09-2025,Tuesday,15:12,Household,Detergent,1,120,120,Cash
+T0099,02-09-2025,Tuesday,15:32,Household,Toilet Cleaner,1,130,130,UPI
+T0100,02-09-2025,Tuesday,16:53,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0101,02-09-2025,Tuesday,17:38,Snacks,Namkeen,4,50,200,Cash
+T0102,02-09-2025,Tuesday,16:21,Grocery,Rice 5kg,4,320,1280,Card
+T0103,02-09-2025,Tuesday,14:13,Grocery,Cooking Oil 1L,2,170,340,UPI
+T0104,02-09-2025,Tuesday,17:29,Dairy,Paneer,2,90,180,UPI
+T0105,02-09-2025,Tuesday,16:18,Household,Toilet Cleaner,2,130,260,Card
+T0106,02-09-2025,Tuesday,14:34,Snacks,Cookies,2,60,120,UPI
+T0107,02-09-2025,Tuesday,16:07,Grocery,Sugar 1kg,2,48,96,Card
+T0108,02-09-2025,Tuesday,16:50,Grocery,Wheat Flour 5kg,1,260,260,Cash
+T0109,02-09-2025,Tuesday,15:22,Bakery,Cake,1,180,180,Cash
+T0110,02-09-2025,Tuesday,14:47,Dairy,Paneer,3,90,270,Cash
+T0111,02-09-2025,Tuesday,15:47,Dairy,Paneer,2,90,180,UPI
+T0112,02-09-2025,Tuesday,14:51,Grocery,Rice 5kg,1,320,320,Cash
+T0113,02-09-2025,Tuesday,15:14,Snacks,Namkeen,3,50,150,UPI
+T0114,02-09-2025,Tuesday,16:46,Grocery,Sugar 1kg,1,48,48,UPI
+T0115,02-09-2025,Tuesday,14:43,Beverages,Coffee,3,240,720,UPI
+T0116,03-09-2025,Wednesday,15:33,Beverages,Tea,2,180,360,Cash
+T0117,03-09-2025,Wednesday,14:35,Snacks,Chocolate,3,40,120,Cash
+T0118,03-09-2025,Wednesday,16:26,Personal Care,Soap,4,40,160,UPI
+T0119,03-09-2025,Wednesday,15:39,Dairy,Milk,2,60,120,UPI
+T0120,03-09-2025,Wednesday,15:31,Personal Care,Face Wash,1,160,160,UPI
+T0121,03-09-2025,Wednesday,15:53,Dairy,Milk,1,60,60,UPI
+T0122,03-09-2025,Wednesday,14:22,Snacks,Chips,1,20,20,UPI
+T0123,03-09-2025,Wednesday,12:00,Bakery,Bread,1,45,45,UPI
+T0124,03-09-2025,Wednesday,14:29,Dairy,Curd,5,40,200,Cash
+T0125,03-09-2025,Wednesday,14:54,Household,Toilet Cleaner,2,130,260,Card
+T0126,03-09-2025,Wednesday,14:03,Grocery,Salt 1kg,3,25,75,UPI
+T0127,03-09-2025,Wednesday,15:52,Bakery,Bread,4,45,180,UPI
+T0128,03-09-2025,Wednesday,15:14,Dairy,Butter,1,58,58,Cash
+T0129,03-09-2025,Wednesday,13:48,Grocery,Salt 1kg,3,25,75,UPI
+T0130,03-09-2025,Wednesday,14:33,Personal Care,Face Wash,1,160,160,UPI
+T0131,03-09-2025,Wednesday,15:54,Household,Floor Cleaner,1,150,150,Cash
+T0132,03-09-2025,Wednesday,16:31,Bakery,Bread,5,45,225,Cash
+T0133,03-09-2025,Wednesday,14:39,Grocery,Cooking Oil 1L,1,170,170,UPI
+T0134,03-09-2025,Wednesday,19:13,Snacks,Chips,1,20,20,Card
+T0135,03-09-2025,Wednesday,09:05,Personal Care,Soap,1,40,40,UPI
+T0136,03-09-2025,Wednesday,11:44,Dairy,Milk,1,60,60,Cash
+T0137,03-09-2025,Wednesday,16:24,Bakery,Bread,1,45,45,Cash
+T0138,03-09-2025,Wednesday,15:08,Grocery,Sugar 1kg,5,48,240,Cash
+T0139,03-09-2025,Wednesday,14:25,Grocery,Wheat Flour 5kg,2,260,520,UPI
+T0140,03-09-2025,Wednesday,14:52,Snacks,Chocolate,1,40,40,Cash
+T0141,03-09-2025,Wednesday,12:38,Dairy,Curd,2,40,80,Cash
+T0142,03-09-2025,Wednesday,13:34,Beverages,Coffee,2,240,480,UPI
+T0143,03-09-2025,Wednesday,16:16,Household,Detergent,1,120,120,UPI
+T0144,03-09-2025,Wednesday,15:36,Snacks,Cookies,3,60,180,Cash
+T0145,03-09-2025,Wednesday,13:09,Household,Toilet Cleaner,1,130,130,Cash
+T0146,03-09-2025,Wednesday,14:24,Household,Detergent,1,120,120,Cash
+T0147,03-09-2025,Wednesday,16:53,Beverages,Cold Drink,5,45,225,UPI
+T0148,03-09-2025,Wednesday,10:04,Grocery,Rice 5kg,2,320,640,UPI
+T0149,03-09-2025,Wednesday,15:44,Dairy,Butter,5,58,290,UPI
+T0150,03-09-2025,Wednesday,09:56,Grocery,Sugar 1kg,3,48,144,UPI
+T0151,03-09-2025,Wednesday,14:52,Personal Care,Face Wash,2,160,320,UPI
+T0152,03-09-2025,Wednesday,17:11,Dairy,Paneer,1,90,90,Cash
+T0153,03-09-2025,Wednesday,15:51,Snacks,Cookies,1,60,60,UPI
+T0154,03-09-2025,Wednesday,14:18,Grocery,Sugar 1kg,2,48,96,UPI
+T0155,03-09-2025,Wednesday,15:50,Grocery,Wheat Flour 5kg,1,260,260,Cash
+T0156,03-09-2025,Wednesday,14:46,Bakery,Cake,1,180,180,Cash
+T0157,03-09-2025,Wednesday,14:52,Grocery,Rice 5kg,1,320,320,Cash
+T0158,03-09-2025,Wednesday,16:49,Grocery,Salt 1kg,1,25,25,Cash
+T0159,03-09-2025,Wednesday,14:30,Bakery,Bread,1,45,45,Cash
+T0160,03-09-2025,Wednesday,15:26,Snacks,Chips,1,20,20,Cash
+T0161,03-09-2025,Wednesday,15:56,Grocery,Salt 1kg,4,25,100,Cash
+T0162,03-09-2025,Wednesday,10:55,Snacks,Namkeen,1,50,50,UPI
+T0163,03-09-2025,Wednesday,15:12,Snacks,Namkeen,1,50,50,Cash
+T0164,03-09-2025,Wednesday,15:11,Household,Floor Cleaner,1,150,150,Cash
+T0165,03-09-2025,Wednesday,14:06,Grocery,Salt 1kg,4,25,100,UPI
+T0166,03-09-2025,Wednesday,13:52,Snacks,Chocolate,2,40,80,Card
+T0167,03-09-2025,Wednesday,12:49,Bakery,Bread,2,45,90,UPI
+T0168,03-09-2025,Wednesday,14:12,Grocery,Rice 5kg,2,320,640,UPI
+T0169,03-09-2025,Wednesday,14:12,Snacks,Namkeen,2,50,100,Cash
+T0170,03-09-2025,Wednesday,16:37,Grocery,Rice 5kg,2,320,640,UPI
+T0171,03-09-2025,Wednesday,15:38,Personal Care,Shampoo,1,180,180,UPI
+T0172,03-09-2025,Wednesday,15:30,Personal Care,Toothpaste,1,95,95,UPI
+T0173,03-09-2025,Wednesday,14:20,Personal Care,Soap,2,40,80,UPI
+T0174,03-09-2025,Wednesday,13:05,Snacks,Namkeen,2,50,100,Card
+T0175,03-09-2025,Wednesday,10:44,Beverages,Tea,2,180,360,Cash
+T0176,03-09-2025,Wednesday,15:28,Snacks,Chocolate,2,40,80,Cash
+T0177,03-09-2025,Wednesday,14:28,Dairy,Cheese,1,140,140,UPI
+T0178,03-09-2025,Wednesday,10:53,Snacks,Chocolate,3,40,120,Card
+T0179,03-09-2025,Wednesday,15:50,Snacks,Chocolate,1,40,40,UPI
+T0180,03-09-2025,Wednesday,16:21,Dairy,Milk,1,60,60,Cash
+T0181,03-09-2025,Wednesday,14:49,Grocery,Rice 5kg,1,320,320,Cash
+T0182,03-09-2025,Wednesday,16:05,Dairy,Curd,2,40,80,UPI
+T0183,03-09-2025,Wednesday,14:47,Beverages,Juice,1,90,90,Cash
+T0184,03-09-2025,Wednesday,14:56,Personal Care,Shampoo,5,180,900,Card
+T0185,03-09-2025,Wednesday,09:56,Personal Care,Toothpaste,3,95,285,Cash
+T0186,03-09-2025,Wednesday,15:21,Personal Care,Toothpaste,2,95,190,Card
+T0187,03-09-2025,Wednesday,13:32,Bakery,Biscuits,2,35,70,Card
+T0188,03-09-2025,Wednesday,15:26,Grocery,Cooking Oil 1L,4,170,680,Cash
+T0189,03-09-2025,Wednesday,14:30,Household,Dishwash Bar,2,30,60,Cash
+T0190,03-09-2025,Wednesday,17:05,Personal Care,Shampoo,2,180,360,Cash
+T0191,03-09-2025,Wednesday,11:51,Household,Toilet Cleaner,3,130,390,UPI
+T0192,03-09-2025,Wednesday,16:24,Personal Care,Soap,1,40,40,Card
+T0193,03-09-2025,Wednesday,14:11,Grocery,Rice 5kg,2,320,640,Cash
+T0194,03-09-2025,Wednesday,14:05,Household,Detergent,2,120,240,UPI
+T0195,03-09-2025,Wednesday,15:57,Beverages,Coffee,3,240,720,UPI
+T0196,03-09-2025,Wednesday,14:30,Personal Care,Face Wash,1,160,160,Cash
+T0197,03-09-2025,Wednesday,14:15,Grocery,Cooking Oil 1L,1,170,170,UPI
+T0198,03-09-2025,Wednesday,14:30,Household,Dishwash Bar,1,30,30,Cash
+T0199,03-09-2025,Wednesday,15:31,Grocery,Rice 5kg,5,320,1600,UPI
+T0200,03-09-2025,Wednesday,14:11,Beverages,Cold Drink,1,45,45,Cash
+T0201,04-09-2025,Thursday,16:59,Dairy,Butter,3,58,174,Cash
+T0202,04-09-2025,Thursday,11:53,Household,Floor Cleaner,1,150,150,UPI
+T0203,04-09-2025,Thursday,16:18,Dairy,Curd,2,40,80,Cash
+T0204,04-09-2025,Thursday,16:30,Bakery,Bread,5,45,225,UPI
+T0205,04-09-2025,Thursday,14:17,Personal Care,Shampoo,2,180,360,UPI
+T0206,04-09-2025,Thursday,16:33,Dairy,Curd,3,40,120,Cash
+T0207,04-09-2025,Thursday,14:43,Snacks,Chocolate,1,40,40,UPI
+T0208,04-09-2025,Thursday,13:41,Snacks,Namkeen,3,50,150,UPI
+T0209,04-09-2025,Thursday,11:36,Dairy,Curd,1,40,40,UPI
+T0210,04-09-2025,Thursday,15:45,Dairy,Paneer,1,90,90,Card
+T0211,04-09-2025,Thursday,18:17,Dairy,Cheese,1,140,140,Cash
+T0212,04-09-2025,Thursday,14:41,Household,Detergent,1,120,120,Card
+T0213,04-09-2025,Thursday,14:11,Grocery,Sugar 1kg,4,48,192,UPI
+T0214,04-09-2025,Thursday,14:03,Bakery,Biscuits,1,35,35,Cash
+T0215,04-09-2025,Thursday,16:01,Grocery,Salt 1kg,1,25,25,Card
+T0216,04-09-2025,Thursday,11:11,Household,Dishwash Bar,1,30,30,Cash
+T0217,04-09-2025,Thursday,15:13,Grocery,Sugar 1kg,1,48,48,UPI
+T0218,04-09-2025,Thursday,15:16,Beverages,Water Bottle,2,20,40,UPI
+T0219,04-09-2025,Thursday,16:51,Dairy,Cheese,1,140,140,Card
+T0220,04-09-2025,Thursday,14:36,Personal Care,Soap,1,40,40,Card
+T0221,04-09-2025,Thursday,14:01,Bakery,Cake,2,180,360,UPI
+T0222,04-09-2025,Thursday,15:25,Snacks,Namkeen,1,50,50,Cash
+T0223,04-09-2025,Thursday,12:27,Grocery,Wheat Flour 5kg,1,260,260,Card
+T0224,04-09-2025,Thursday,14:10,Household,Floor Cleaner,1,150,150,Cash
+T0225,04-09-2025,Thursday,10:40,Bakery,Rusk,3,55,165,Cash
+T0226,04-09-2025,Thursday,15:23,Household,Dishwash Bar,1,30,30,Cash
+T0227,04-09-2025,Thursday,15:05,Beverages,Water Bottle,1,20,20,Cash
+T0228,04-09-2025,Thursday,12:24,Snacks,Namkeen,3,50,150,UPI
+T0229,04-09-2025,Thursday,14:05,Snacks,Chips,3,20,60,Cash
+T0230,04-09-2025,Thursday,19:19,Dairy,Paneer,1,90,90,Cash
+T0231,04-09-2025,Thursday,14:04,Grocery,Wheat Flour 5kg,5,260,1300,UPI
+T0232,04-09-2025,Thursday,16:52,Personal Care,Soap,2,40,80,Card
+T0233,04-09-2025,Thursday,13:59,Personal Care,Toothpaste,2,95,190,Cash
+T0234,04-09-2025,Thursday,14:34,Dairy,Milk,1,60,60,UPI
+T0235,04-09-2025,Thursday,16:44,Snacks,Chips,3,20,60,Cash
+T0236,04-09-2025,Thursday,12:43,Dairy,Curd,1,40,40,Cash
+T0237,04-09-2025,Thursday,13:09,Snacks,Chocolate,1,40,40,UPI
+T0238,04-09-2025,Thursday,17:01,Personal Care,Soap,3,40,120,UPI
+T0239,04-09-2025,Thursday,16:00,Household,Dishwash Bar,2,30,60,UPI
+T0240,04-09-2025,Thursday,16:28,Grocery,Salt 1kg,1,25,25,Cash
+T0241,04-09-2025,Thursday,12:28,Snacks,Chips,1,20,20,Cash
+T0242,04-09-2025,Thursday,12:14,Grocery,Rice 5kg,4,320,1280,UPI
+T0243,04-09-2025,Thursday,16:35,Beverages,Cold Drink,1,45,45,Card
+T0244,04-09-2025,Thursday,12:29,Grocery,Wheat Flour 5kg,2,260,520,Cash
+T0245,04-09-2025,Thursday,14:18,Personal Care,Face Wash,3,160,480,UPI
+T0246,04-09-2025,Thursday,16:31,Beverages,Tea,2,180,360,Cash
+T0247,04-09-2025,Thursday,16:51,Bakery,Bread,3,45,135,UPI
+T0248,04-09-2025,Thursday,19:58,Snacks,Chocolate,1,40,40,Cash
+T0249,04-09-2025,Thursday,14:25,Personal Care,Toothpaste,1,95,95,Cash
+T0250,04-09-2025,Thursday,16:48,Grocery,Sugar 1kg,2,48,96,Cash
+T0251,04-09-2025,Thursday,11:13,Grocery,Salt 1kg,3,25,75,Cash
+T0252,04-09-2025,Thursday,16:24,Snacks,Cookies,2,60,120,Card
+T0253,04-09-2025,Thursday,15:41,Personal Care,Face Wash,4,160,640,Cash
+T0254,04-09-2025,Thursday,15:52,Dairy,Cheese,3,140,420,UPI
+T0255,04-09-2025,Thursday,19:51,Personal Care,Soap,1,40,40,Cash
+T0256,04-09-2025,Thursday,14:25,Bakery,Cake,2,180,360,Cash
+T0257,04-09-2025,Thursday,16:32,Beverages,Coffee,2,240,480,Cash
+T0258,04-09-2025,Thursday,15:21,Personal Care,Soap,2,40,80,Cash
+T0259,04-09-2025,Thursday,15:02,Bakery,Bread,1,45,45,Cash
+T0260,04-09-2025,Thursday,14:04,Household,Dishwash Bar,2,30,60,UPI
+T0261,04-09-2025,Thursday,15:37,Snacks,Namkeen,1,50,50,Cash
+T0262,04-09-2025,Thursday,14:01,Household,Floor Cleaner,2,150,300,Cash
+T0263,04-09-2025,Thursday,14:09,Snacks,Chocolate,3,40,120,Cash
+T0264,04-09-2025,Thursday,19:00,Bakery,Bread,1,45,45,Cash
+T0265,04-09-2025,Thursday,15:28,Household,Toilet Cleaner,1,130,130,UPI
+T0266,04-09-2025,Thursday,13:41,Dairy,Cheese,5,140,700,Cash
+T0267,04-09-2025,Thursday,16:49,Household,Detergent,2,120,240,UPI
+T0268,04-09-2025,Thursday,15:43,Snacks,Namkeen,1,50,50,Cash
+T0269,04-09-2025,Thursday,19:40,Dairy,Cheese,2,140,280,UPI
+T0270,04-09-2025,Thursday,14:04,Dairy,Paneer,3,90,270,UPI
+T0271,04-09-2025,Thursday,14:38,Snacks,Chocolate,1,40,40,Cash
+T0272,04-09-2025,Thursday,15:47,Dairy,Curd,2,40,80,Cash
+T0273,04-09-2025,Thursday,16:42,Beverages,Tea,1,180,180,Cash
+T0274,04-09-2025,Thursday,15:16,Dairy,Milk,1,60,60,Cash
+T0275,04-09-2025,Thursday,16:59,Snacks,Cookies,4,60,240,UPI
+T0276,04-09-2025,Thursday,16:42,Dairy,Milk,1,60,60,UPI
+T0277,04-09-2025,Thursday,16:48,Beverages,Juice,1,90,90,UPI
+T0278,04-09-2025,Thursday,14:25,Grocery,Cooking Oil 1L,1,170,170,Card
+T0279,04-09-2025,Thursday,10:05,Dairy,Cheese,2,140,280,UPI
+T0280,04-09-2025,Thursday,15:08,Grocery,Rice 5kg,1,320,320,Cash
+T0281,04-09-2025,Thursday,13:15,Personal Care,Soap,3,40,120,Cash
+T0282,04-09-2025,Thursday,16:17,Beverages,Juice,2,90,180,Cash
+T0283,04-09-2025,Thursday,14:53,Snacks,Chips,1,20,20,UPI
+T0284,04-09-2025,Thursday,15:12,Household,Dishwash Bar,2,30,60,UPI
+T0285,04-09-2025,Thursday,15:54,Dairy,Milk,2,60,120,UPI
+T0286,05-09-2025,Friday,14:41,Snacks,Chips,2,20,40,UPI
+T0287,05-09-2025,Friday,15:34,Bakery,Biscuits,1,35,35,UPI
+T0288,05-09-2025,Friday,13:19,Household,Detergent,2,120,240,Cash
+T0289,05-09-2025,Friday,16:51,Snacks,Namkeen,1,50,50,Card
+T0290,05-09-2025,Friday,15:03,Personal Care,Soap,4,40,160,Cash
+T0291,05-09-2025,Friday,11:52,Personal Care,Shampoo,2,180,360,UPI
+T0292,05-09-2025,Friday,16:21,Household,Dishwash Bar,1,30,30,UPI
+T0293,05-09-2025,Friday,15:40,Snacks,Cookies,2,60,120,Card
+T0294,05-09-2025,Friday,14:16,Dairy,Paneer,1,90,90,UPI
+T0295,05-09-2025,Friday,13:13,Personal Care,Face Wash,1,160,160,UPI
+T0296,05-09-2025,Friday,16:06,Personal Care,Toothpaste,1,95,95,Cash
+T0297,05-09-2025,Friday,15:31,Snacks,Chips,3,20,60,Card
+T0298,05-09-2025,Friday,16:17,Grocery,Salt 1kg,3,25,75,UPI
+T0299,05-09-2025,Friday,15:44,Dairy,Milk,1,60,60,Cash
+T0300,05-09-2025,Friday,14:14,Personal Care,Toothpaste,5,95,475,Card
+T0301,05-09-2025,Friday,15:45,Household,Floor Cleaner,2,150,300,Cash
+T0302,05-09-2025,Friday,15:02,Grocery,Rice 5kg,2,320,640,Cash
+T0303,05-09-2025,Friday,14:40,Household,Floor Cleaner,1,150,150,UPI
+T0304,05-09-2025,Friday,13:01,Household,Floor Cleaner,2,150,300,Cash
+T0305,05-09-2025,Friday,15:45,Personal Care,Soap,4,40,160,Cash
+T0306,05-09-2025,Friday,16:32,Beverages,Juice,2,90,180,Cash
+T0307,05-09-2025,Friday,14:34,Beverages,Cold Drink,3,45,135,Cash
+T0308,05-09-2025,Friday,16:48,Bakery,Rusk,3,55,165,UPI
+T0309,05-09-2025,Friday,12:10,Beverages,Coffee,1,240,240,Cash
+T0310,05-09-2025,Friday,16:24,Bakery,Rusk,2,55,110,UPI
+T0311,05-09-2025,Friday,14:32,Dairy,Paneer,1,90,90,UPI
+T0312,05-09-2025,Friday,15:30,Beverages,Cold Drink,2,45,90,Cash
+T0313,05-09-2025,Friday,15:02,Grocery,Sugar 1kg,1,48,48,Cash
+T0314,05-09-2025,Friday,14:07,Dairy,Paneer,1,90,90,Cash
+T0315,05-09-2025,Friday,16:51,Beverages,Juice,3,90,270,UPI
+T0316,05-09-2025,Friday,12:16,Personal Care,Soap,2,40,80,Cash
+T0317,05-09-2025,Friday,15:12,Personal Care,Soap,4,40,160,Card
+T0318,05-09-2025,Friday,16:35,Beverages,Coffee,1,240,240,Card
+T0319,05-09-2025,Friday,15:33,Grocery,Cooking Oil 1L,2,170,340,Cash
+T0320,05-09-2025,Friday,13:14,Household,Floor Cleaner,4,150,600,Cash
+T0321,05-09-2025,Friday,16:53,Dairy,Cheese,1,140,140,UPI
+T0322,05-09-2025,Friday,16:29,Grocery,Cooking Oil 1L,2,170,340,UPI
+T0323,05-09-2025,Friday,18:46,Snacks,Namkeen,4,50,200,Card
+T0324,05-09-2025,Friday,18:11,Personal Care,Shampoo,3,180,540,UPI
+T0325,05-09-2025,Friday,13:20,Grocery,Wheat Flour 5kg,1,260,260,Cash
+T0326,05-09-2025,Friday,15:38,Household,Detergent,3,120,360,UPI
+T0327,05-09-2025,Friday,19:15,Snacks,Chips,3,20,60,Cash
+T0328,05-09-2025,Friday,12:42,Dairy,Butter,1,58,58,UPI
+T0329,05-09-2025,Friday,16:45,Personal Care,Shampoo,4,180,720,UPI
+T0330,05-09-2025,Friday,10:48,Snacks,Chocolate,2,40,80,Cash
+T0331,05-09-2025,Friday,11:28,Snacks,Cookies,1,60,60,UPI
+T0332,05-09-2025,Friday,19:04,Snacks,Namkeen,1,50,50,Cash
+T0333,05-09-2025,Friday,15:33,Beverages,Cold Drink,1,45,45,UPI
+T0334,05-09-2025,Friday,12:23,Household,Toilet Cleaner,1,130,130,Cash
+T0335,05-09-2025,Friday,11:10,Beverages,Coffee,1,240,240,UPI
+T0336,05-09-2025,Friday,14:21,Beverages,Juice,2,90,180,Card
+T0337,05-09-2025,Friday,16:31,Grocery,Cooking Oil 1L,2,170,340,Cash
+T0338,05-09-2025,Friday,13:52,Personal Care,Toothpaste,3,95,285,UPI
+T0339,05-09-2025,Friday,15:07,Grocery,Salt 1kg,2,25,50,Card
+T0340,05-09-2025,Friday,14:42,Grocery,Rice 5kg,2,320,640,Cash
+T0341,05-09-2025,Friday,15:12,Beverages,Juice,1,90,90,UPI
+T0342,05-09-2025,Friday,18:22,Dairy,Milk,1,60,60,UPI
+T0343,05-09-2025,Friday,14:08,Dairy,Cheese,1,140,140,Cash
+T0344,05-09-2025,Friday,16:54,Grocery,Cooking Oil 1L,2,170,340,UPI
+T0345,05-09-2025,Friday,19:08,Grocery,Salt 1kg,2,25,50,UPI
+T0346,05-09-2025,Friday,16:43,Grocery,Salt 1kg,1,25,25,Cash
+T0347,05-09-2025,Friday,12:54,Snacks,Namkeen,1,50,50,Cash
+T0348,05-09-2025,Friday,14:25,Dairy,Curd,1,40,40,Cash
+T0349,05-09-2025,Friday,10:37,Grocery,Sugar 1kg,2,48,96,UPI
+T0350,05-09-2025,Friday,16:56,Grocery,Wheat Flour 5kg,2,260,520,Cash
+T0351,05-09-2025,Friday,14:13,Dairy,Butter,1,58,58,Cash
+T0352,05-09-2025,Friday,14:02,Beverages,Coffee,1,240,240,UPI
+T0353,05-09-2025,Friday,16:30,Bakery,Biscuits,1,35,35,UPI
+T0354,05-09-2025,Friday,15:46,Household,Dishwash Bar,1,30,30,UPI
+T0355,05-09-2025,Friday,15:16,Personal Care,Shampoo,2,180,360,Cash
+T0356,05-09-2025,Friday,14:55,Grocery,Cooking Oil 1L,1,170,170,Cash
+T0357,05-09-2025,Friday,15:24,Beverages,Tea,1,180,180,Cash
+T0358,05-09-2025,Friday,14:51,Beverages,Water Bottle,3,20,60,Card
+T0359,05-09-2025,Friday,12:30,Grocery,Sugar 1kg,1,48,48,UPI
+T0360,05-09-2025,Friday,14:20,Dairy,Milk,3,60,180,Cash
+T0361,05-09-2025,Friday,16:16,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0362,05-09-2025,Friday,13:39,Bakery,Rusk,1,55,55,Cash
+T0363,05-09-2025,Friday,16:39,Snacks,Chips,2,20,40,UPI
+T0364,05-09-2025,Friday,14:07,Grocery,Sugar 1kg,2,48,96,Cash
+T0365,05-09-2025,Friday,15:12,Snacks,Cookies,3,60,180,Cash
+T0366,05-09-2025,Friday,10:17,Grocery,Wheat Flour 5kg,3,260,780,Cash
+T0367,05-09-2025,Friday,16:24,Personal Care,Soap,1,40,40,Cash
+T0368,05-09-2025,Friday,14:07,Beverages,Coffee,1,240,240,Card
+T0369,05-09-2025,Friday,14:28,Snacks,Namkeen,1,50,50,Cash
+T0370,05-09-2025,Friday,15:13,Grocery,Sugar 1kg,2,48,96,UPI
+T0371,05-09-2025,Friday,14:45,Bakery,Rusk,1,55,55,UPI
+T0372,05-09-2025,Friday,14:34,Household,Toilet Cleaner,2,130,260,UPI
+T0373,05-09-2025,Friday,15:44,Bakery,Cake,1,180,180,UPI
+T0374,05-09-2025,Friday,14:58,Grocery,Rice 5kg,2,320,640,UPI
+T0375,05-09-2025,Friday,14:03,Dairy,Cheese,1,140,140,UPI
+T0376,06-09-2025,Saturday,10:13,Grocery,Salt 1kg,1,25,25,Cash
+T0377,06-09-2025,Saturday,12:08,Personal Care,Shampoo,2,180,360,Cash
+T0378,06-09-2025,Saturday,12:59,Personal Care,Face Wash,1,160,160,UPI
+T0379,06-09-2025,Saturday,17:48,Dairy,Butter,5,58,290,Cash
+T0380,06-09-2025,Saturday,16:04,Snacks,Cookies,4,60,240,UPI
+T0381,06-09-2025,Saturday,19:11,Household,Detergent,1,120,120,UPI
+T0382,06-09-2025,Saturday,19:40,Personal Care,Face Wash,2,160,320,Cash
+T0383,06-09-2025,Saturday,11:16,Grocery,Wheat Flour 5kg,2,260,520,UPI
+T0384,06-09-2025,Saturday,10:43,Beverages,Juice,2,90,180,Cash
+T0385,06-09-2025,Saturday,14:43,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0386,06-09-2025,Saturday,17:59,Personal Care,Soap,1,40,40,UPI
+T0387,06-09-2025,Saturday,11:22,Beverages,Water Bottle,1,20,20,Cash
+T0388,06-09-2025,Saturday,15:11,Grocery,Rice 5kg,1,320,320,Cash
+T0389,06-09-2025,Saturday,18:45,Snacks,Namkeen,1,50,50,Cash
+T0390,06-09-2025,Saturday,19:14,Personal Care,Shampoo,3,180,540,Cash
+T0391,06-09-2025,Saturday,12:41,Grocery,Rice 5kg,2,320,640,Cash
+T0392,06-09-2025,Saturday,13:02,Personal Care,Soap,1,40,40,UPI
+T0393,06-09-2025,Saturday,15:17,Household,Floor Cleaner,1,150,150,Card
+T0394,06-09-2025,Saturday,13:26,Dairy,Milk,1,60,60,Cash
+T0395,06-09-2025,Saturday,17:50,Bakery,Rusk,2,55,110,UPI
+T0396,06-09-2025,Saturday,11:55,Grocery,Cooking Oil 1L,1,170,170,UPI
+T0397,06-09-2025,Saturday,10:11,Beverages,Cold Drink,3,45,135,UPI
+T0398,06-09-2025,Saturday,10:53,Snacks,Chocolate,3,40,120,Card
+T0399,06-09-2025,Saturday,19:30,Grocery,Salt 1kg,2,25,50,UPI
+T0400,06-09-2025,Saturday,18:18,Household,Floor Cleaner,1,150,150,UPI
+T0401,06-09-2025,Saturday,13:15,Bakery,Rusk,2,55,110,UPI
+T0402,06-09-2025,Saturday,12:47,Grocery,Wheat Flour 5kg,1,260,260,Cash
+T0403,06-09-2025,Saturday,13:48,Personal Care,Face Wash,1,160,160,Cash
+T0404,06-09-2025,Saturday,15:26,Snacks,Namkeen,2,50,100,UPI
+T0405,06-09-2025,Saturday,17:19,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0406,06-09-2025,Saturday,11:59,Grocery,Sugar 1kg,2,48,96,UPI
+T0407,06-09-2025,Saturday,10:47,Snacks,Chocolate,1,40,40,Cash
+T0408,06-09-2025,Saturday,14:52,Snacks,Namkeen,1,50,50,UPI
+T0409,06-09-2025,Saturday,10:38,Grocery,Wheat Flour 5kg,3,260,780,UPI
+T0410,06-09-2025,Saturday,10:35,Household,Detergent,4,120,480,Cash
+T0411,06-09-2025,Saturday,18:31,Personal Care,Soap,3,40,120,Cash
+T0412,06-09-2025,Saturday,12:39,Beverages,Tea,1,180,180,UPI
+T0413,06-09-2025,Saturday,11:01,Snacks,Namkeen,2,50,100,Cash
+T0414,06-09-2025,Saturday,11:41,Bakery,Biscuits,2,35,70,Cash
+T0415,06-09-2025,Saturday,19:17,Dairy,Paneer,3,90,270,UPI
+T0416,06-09-2025,Saturday,10:33,Bakery,Cake,1,180,180,UPI
+T0417,06-09-2025,Saturday,17:07,Grocery,Wheat Flour 5kg,3,260,780,Card
+T0418,06-09-2025,Saturday,19:10,Personal Care,Face Wash,1,160,160,Cash
+T0419,06-09-2025,Saturday,19:49,Grocery,Cooking Oil 1L,2,170,340,UPI
+T0420,06-09-2025,Saturday,11:57,Grocery,Salt 1kg,2,25,50,UPI
+T0421,06-09-2025,Saturday,17:16,Snacks,Cookies,1,60,60,Cash
+T0422,06-09-2025,Saturday,10:54,Grocery,Wheat Flour 5kg,1,260,260,UPI
+T0423,06-09-2025,Saturday,12:07,Grocery,Sugar 1kg,3,48,144,UPI
+T0424,06-09-2025,Saturday,12:12,Snacks,Chocolate,4,40,160,Cash
+T0425,06-09-2025,Saturday,12:46,Bakery,Rusk,2,55,110,UPI
+T0426,06-09-2025,Saturday,11:14,Grocery,Sugar 1kg,3,48,144,Cash
+T0427,06-09-2025,Saturday,15:58,Snacks,Cookies,1,60,60,Cash
+T0428,06-09-2025,Saturday,15:30,Dairy,Milk,1,60,60,Card
+T0429,06-09-2025,Saturday,11:12,Dairy,Butter,2,58,116,Cash
+T0430,06-09-2025,Saturday,17:21,Grocery,Sugar 1kg,2,48,96,UPI
+T0431,06-09-2025,Saturday,12:27,Dairy,Cheese,3,140,420,Cash
+T0432,06-09-2025,Saturday,15:27,Household,Dishwash Bar,1,30,30,UPI
+T0433,06-09-2025,Saturday,11:25,Household,Dishwash Bar,2,30,60,Cash
+T0434,06-09-2025,Saturday,12:31,Snacks,Chips,1,20,20,UPI
+T0435,06-09-2025,Saturday,13:15,Dairy,Curd,1,40,40,UPI
+T0436,06-09-2025,Saturday,11:57,Personal Care,Soap,1,40,40,UPI
+T0437,06-09-2025,Saturday,19:43,Grocery,Wheat Flour 5kg,5,260,1300,Card
+T0438,06-09-2025,Saturday,15:28,Personal Care,Face Wash,2,160,320,UPI
+T0439,06-09-2025,Saturday,15:55,Dairy,Butter,2,58,116,Card
+T0440,06-09-2025,Saturday,15:01,Snacks,Chocolate,2,40,80,UPI
+T0441,07-09-2025,Sunday,14:42,Personal Care,Shampoo,1,180,180,UPI
+T0442,07-09-2025,Sunday,17:13,Grocery,Salt 1kg,2,25,50,UPI
+T0443,07-09-2025,Sunday,10:49,Household,Dishwash Bar,5,30,150,UPI
+T0444,07-09-2025,Sunday,17:55,Grocery,Rice 5kg,1,320,320,Cash
+T0445,07-09-2025,Sunday,14:58,Dairy,Milk,1,60,60,UPI
+T0446,07-09-2025,Sunday,11:37,Snacks,Namkeen,2,50,100,UPI
+T0447,07-09-2025,Sunday,11:14,Bakery,Cake,3,180,540,UPI
+T0448,07-09-2025,Sunday,14:42,Beverages,Water Bottle,1,20,20,UPI
+T0449,07-09-2025,Sunday,15:25,Household,Detergent,3,120,360,Cash
+T0450,07-09-2025,Sunday,15:54,Beverages,Coffee,1,240,240,UPI
+T0451,07-09-2025,Sunday,15:32,Snacks,Chocolate,2,40,80,Cash
+T0452,07-09-2025,Sunday,14:30,Snacks,Chips,1,20,20,Cash
+T0453,07-09-2025,Sunday,11:22,Beverages,Coffee,3,240,720,UPI
+T0454,07-09-2025,Sunday,16:40,Grocery,Sugar 1kg,1,48,48,Card
+T0455,07-09-2025,Sunday,15:46,Grocery,Cooking Oil 1L,2,170,340,UPI
+T0456,07-09-2025,Sunday,13:51,Dairy,Paneer,5,90,450,Cash
+T0457,07-09-2025,Sunday,14:18,Snacks,Chocolate,1,40,40,UPI
+T0458,07-09-2025,Sunday,13:52,Dairy,Butter,3,58,174,Card
+T0459,07-09-2025,Sunday,14:06,Household,Detergent,1,120,120,Card
+T0460,07-09-2025,Sunday,16:43,Snacks,Cookies,4,60,240,UPI
+T0461,07-09-2025,Sunday,16:05,Beverages,Coffee,1,240,240,Cash
+T0462,07-09-2025,Sunday,15:35,Beverages,Juice,4,90,360,Cash
+T0463,07-09-2025,Sunday,19:12,Grocery,Rice 5kg,1,320,320,UPI
+T0464,07-09-2025,Sunday,11:27,Snacks,Cookies,2,60,120,Card
+T0465,07-09-2025,Sunday,16:58,Household,Dishwash Bar,2,30,60,Card
+T0466,07-09-2025,Sunday,11:12,Bakery,Biscuits,1,35,35,Card
+T0467,07-09-2025,Sunday,11:47,Snacks,Chocolate,4,40,160,Cash
+T0468,07-09-2025,Sunday,16:21,Dairy,Paneer,1,90,90,UPI
+T0469,07-09-2025,Sunday,15:23,Grocery,Cooking Oil 1L,2,170,340,UPI
+T0470,07-09-2025,Sunday,16:28,Dairy,Milk,2,60,120,Cash
+T0471,07-09-2025,Sunday,15:10,Household,Toilet Cleaner,3,130,390,Cash
+T0472,07-09-2025,Sunday,13:43,Beverages,Coffee,1,240,240,UPI
+T0473,07-09-2025,Sunday,11:53,Personal Care,Toothpaste,4,95,380,Cash
+T0474,07-09-2025,Sunday,14:18,Snacks,Chips,1,20,20,UPI
+T0475,07-09-2025,Sunday,14:18,Dairy,Butter,1,58,58,Cash
+T0476,07-09-2025,Sunday,17:39,Grocery,Sugar 1kg,1,48,48,UPI
+T0477,07-09-2025,Sunday,14:15,Snacks,Chips,2,20,40,UPI
+T0478,07-09-2025,Sunday,15:49,Snacks,Chocolate,1,40,40,UPI
+T0479,07-09-2025,Sunday,17:55,Grocery,Wheat Flour 5kg,3,260,780,UPI
+T0480,07-09-2025,Sunday,14:24,Dairy,Curd,1,40,40,UPI
+T0481,07-09-2025,Sunday,16:31,Beverages,Water Bottle,2,20,40,Card
+T0482,07-09-2025,Sunday,14:43,Dairy,Curd,2,40,80,Card
+T0483,07-09-2025,Sunday,15:55,Snacks,Namkeen,1,50,50,Cash
+T0484,07-09-2025,Sunday,17:19,Snacks,Cookies,2,60,120,UPI
+T0485,07-09-2025,Sunday,16:05,Dairy,Curd,3,40,120,UPI
+T0486,07-09-2025,Sunday,14:33,Household,Toilet Cleaner,1,130,130,UPI
+T0487,07-09-2025,Sunday,17:49,Grocery,Salt 1kg,1,25,25,Cash
+T0488,07-09-2025,Sunday,14:41,Household,Toilet Cleaner,1,130,130,Cash
+T0489,07-09-2025,Sunday,13:06,Snacks,Chips,1,20,20,Cash
+T0490,07-09-2025,Sunday,13:41,Dairy,Milk,4,60,240,UPI
+T0491,07-09-2025,Sunday,19:54,Snacks,Namkeen,2,50,100,Cash
+T0492,07-09-2025,Sunday,14:51,Grocery,Sugar 1kg,2,48,96,Cash
+T0493,07-09-2025,Sunday,12:40,Grocery,Rice 5kg,2,320,640,UPI
+T0494,07-09-2025,Sunday,16:21,Grocery,Rice 5kg,1,320,320,Cash
+T0495,07-09-2025,Sunday,16:19,Personal Care,Shampoo,1,180,180,Cash
+T0496,07-09-2025,Sunday,13:59,Grocery,Rice 5kg,2,320,640,UPI
+T0497,07-09-2025,Sunday,11:59,Beverages,Cold Drink,3,45,135,UPI
+T0498,07-09-2025,Sunday,19:30,Personal Care,Face Wash,3,160,480,UPI
+T0499,07-09-2025,Sunday,14:54,Household,Floor Cleaner,1,150,150,Cash
+T0500,07-09-2025,Sunday,15:55,Bakery,Cake,1,180,180,UPI
+T0501,07-09-2025,Sunday,14:01,Household,Floor Cleaner,1,150,150,Cash
+T0502,07-09-2025,Sunday,16:50,Snacks,Namkeen,4,50,200,UPI
+T0503,07-09-2025,Sunday,11:24,Grocery,Salt 1kg,3,25,75,UPI
+T0504,07-09-2025,Sunday,11:13,Beverages,Water Bottle,1,20,20,UPI
+T0505,07-09-2025,Sunday,14:51,Grocery,Wheat Flour 5kg,4,260,1040,UPI
+T0506,07-09-2025,Sunday,15:26,Grocery,Sugar 1kg,1,48,48,UPI
+T0507,07-09-2025,Sunday,11:00,Personal Care,Toothpaste,3,95,285,Cash
+T0508,07-09-2025,Sunday,17:55,Personal Care,Shampoo,1,180,180,UPI
+T0509,07-09-2025,Sunday,12:10,Household,Dishwash Bar,2,30,60,Cash
+T0510,07-09-2025,Sunday,15:34,Snacks,Cookies,2,60,120,UPI
+T0511,07-09-2025,Sunday,12:38,Household,Detergent,3,120,360,Card
+T0512,07-09-2025,Sunday,13:24,Household,Detergent,1,120,120,Card
+T0513,07-09-2025,Sunday,13:58,Beverages,Water Bottle,4,20,80,Cash
+T0514,07-09-2025,Sunday,16:02,Personal Care,Shampoo,1,180,180,Cash
+T0515,07-09-2025,Sunday,11:40,Personal Care,Face Wash,3,160,480,Card
+T0516,07-09-2025,Sunday,19:01,Household,Dishwash Bar,2,30,60,Card
+T0517,07-09-2025,Sunday,17:15,Bakery,Biscuits,1,35,35,UPI
+T0518,07-09-2025,Sunday,15:29,Dairy,Butter,1,58,58,UPI
+T0519,07-09-2025,Sunday,18:19,Dairy,Cheese,3,140,420,Cash
+T0520,07-09-2025,Sunday,14:35,Personal Care,Soap,4,40,160,Cash
+T0521,07-09-2025,Sunday,15:52,Personal Care,Face Wash,3,160,480,Cash
+T0522,07-09-2025,Sunday,11:25,Bakery,Cake,2,180,360,Cash
+T0523,07-09-2025,Sunday,14:31,Household,Toilet Cleaner,1,130,130,UPI
+T0524,07-09-2025,Sunday,11:55,Personal Care,Soap,1,40,40,Cash
+T0525,07-09-2025,Sunday,10:17,Grocery,Sugar 1kg,2,48,96,UPI
+T0526,07-09-2025,Sunday,16:59,Grocery,Sugar 1kg,1,48,48,UPI
+T0527,07-09-2025,Sunday,16:27,Dairy,Butter,2,58,116,UPI
+T0528,07-09-2025,Sunday,15:14,Dairy,Butter,1,58,58,UPI
+T0529,07-09-2025,Sunday,16:58,Grocery,Salt 1kg,2,25,50,Cash
+T0530,07-09-2025,Sunday,15:42,Personal Care,Toothpaste,1,95,95,Cash
+T0531,07-09-2025,Sunday,10:55,Grocery,Cooking Oil 1L,3,170,510,UPI
+T0532,07-09-2025,Sunday,12:32,Snacks,Chocolate,2,40,80,UPI
+T0533,07-09-2025,Sunday,16:27,Snacks,Namkeen,1,50,50,Cash
+T0534,07-09-2025,Sunday,15:58,Household,Detergent,2,120,240,Cash
+T0535,07-09-2025,Sunday,12:10,Beverages,Coffee,1,240,240,Cash
+T0536,07-09-2025,Sunday,14:10,Grocery,Rice 5kg,1,320,320,Cash
+T0537,07-09-2025,Sunday,10:57,Snacks,Namkeen,1,50,50,Cash
+T0538,07-09-2025,Sunday,14:06,Personal Care,Shampoo,1,180,180,UPI
+T0539,07-09-2025,Sunday,13:18,Personal Care,Shampoo,3,180,540,Cash
+T0540,07-09-2025,Sunday,17:22,Household,Dishwash Bar,1,30,30,UPI
+T0541,07-09-2025,Sunday,17:38,Beverages,Juice,4,90,360,UPI
+T0542,07-09-2025,Sunday,17:40,Household,Detergent,1,120,120,Cash
+T0543,07-09-2025,Sunday,14:11,Beverages,Cold Drink,1,45,45,UPI
+T0544,07-09-2025,Sunday,17:41,Snacks,Chips,2,20,40,UPI
+T0545,07-09-2025,Sunday,15:05,Dairy,Milk,1,60,60,Cash
+T0546,07-09-2025,Sunday,13:38,Dairy,Cheese,1,140,140,Cash
+T0547,07-09-2025,Sunday,15:11,Grocery,Salt 1kg,2,25,50,UPI
+T0548,07-09-2025,Sunday,13:43,Snacks,Namkeen,3,50,150,Card
+T0549,07-09-2025,Sunday,15:10,Personal Care,Face Wash,1,160,160,Cash
+T0550,07-09-2025,Sunday,14:21,Dairy,Cheese,2,140,280,Cash
