@@ -2,7 +2,7 @@ import pandas as pd
 # import numpy as np
 # import matplotlib.pyplot as plt
 
-df = pd.read_csv("retail\\Local_Retail_Store_Dataset_550_Rows.csv")
+df = pd.read_csv("Retail-Store-Sales-Analysis\\Local_Retail_Store_Dataset_550_Rows.csv")
 # print(df.head())
 
 lowest_footfall_day = df['Transaction_ID'].groupby(df['Day']).count().idxmin()
